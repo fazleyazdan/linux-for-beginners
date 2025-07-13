@@ -1,7 +1,7 @@
 # Linux for Beginners
 
 - [Intro](#intro)
-- [Mobile Testing](#mobtest)
+- [Chapter 1](#ch1)
 
 ##
 
@@ -26,3 +26,7 @@ Linux is a powerful, open-source operating system known for its stability, flexi
 
 Whether you're a QA engineer, developer, or just tech-curious — learning Linux will give you a solid edge in the tech industry.
 
+
+<a id="ch1"></a>
+
+## 📘 Chapter 1: Essential Linux Commands for Beginners
