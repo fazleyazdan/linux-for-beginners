@@ -3,7 +3,7 @@
 - [Intro](#intro)
 - [Chapter 1](#ch1)
 
-##
+---
 
 <a id="intro"></a>
 
@@ -26,6 +26,7 @@ Linux is a powerful, open-source operating system known for its stability, flexi
 
 Whether you're a QA engineer, developer, or just tech-curious — learning Linux will give you a solid edge in the tech industry.
 
+---
 
 <a id="ch1"></a>
 
