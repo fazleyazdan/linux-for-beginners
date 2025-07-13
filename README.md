@@ -1,5 +1,12 @@
 # Linux for Beginners
 
+- [Intro](#intro)
+- [Mobile Testing](#mobtest)
+
+##
+
+<a id="intro"></a>
+
 Linux is a powerful, open-source operating system known for its stability, flexibility, and strong community support. Unlike traditional operating systems, Linux gives you full control over how your system runs — making it the go-to choice for developers, testers, sysadmins, and cybersecurity professionals around the globe.
 
 ### Why Linux?
