@@ -39,7 +39,7 @@ Linux is all about the terminal. Below are some of the most useful and beginner-
 ### 📂 File & Directory Navigation
 
 | Command                  | Description                                 |
-|--------------------------|---------------------------------------------|
+|:--------------------------|:---------------------------------------------|
 | `pwd`                    | Shows the current working directory         |
 | `ls`                     | Lists files and directories                 |
 | `ls -l`                  | Lists in long format (permissions, size)    |
