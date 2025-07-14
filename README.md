@@ -49,3 +49,17 @@ Linux is all about the terminal. Below are some of the most useful and beginner-
 | `rmdir [foldername]`     | Removes an empty directory                  |
 | `rm -r [foldername]`     | Removes a directory and its contents        |
 
+### 📄 File Operations
+
+| Command                        | Description                                  |
+|--------------------------------|----------------------------------------------|
+| `touch [filename]`             | Creates a new empty file                     |
+| `cp [source] [destination]`    | Copies a file or directory                   |
+| `mv [source] [destination]`    | Moves or renames a file or directory         |
+| `rm [filename]`                | Deletes a file                               |
+| `cat [filename]`               | Displays contents of a file                  |
+| `nano [filename]`              | Opens a file in the Nano text editor         |
+| `head -n 10 [filename]`        | Shows the first 10 lines of a file           |
+| `tail -n 10 [filename]`        | Shows the last 10 lines of a file            |
+
+
