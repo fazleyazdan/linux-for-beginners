@@ -33,3 +33,19 @@ Whether you're a QA engineer, developer, or just tech-curious — learning Linux
 <a id="ch1"></a>
 
 ## 📘 Chapter 1: Essential Linux Commands for Beginners
+
+Linux is all about the terminal. Below are some of the most useful and beginner-friendly commands to help you navigate and manage your system.
+
+### 📂 File & Directory Navigation
+
+| Command                  | Description                                 |
+|--------------------------|---------------------------------------------|
+| `pwd`                    | Shows the current working directory         |
+| `ls`                     | Lists files and directories                 |
+| `ls -l`                  | Lists in long format (permissions, size)    |
+| `cd [directory]`         | Changes to the specified directory          |
+| `cd ..`                  | Moves one directory up                      |
+| `mkdir [foldername]`     | Creates a new directory                     |
+| `rmdir [foldername]`     | Removes an empty directory                  |
+| `rm -r [foldername]`     | Removes a directory and its contents        |
+
