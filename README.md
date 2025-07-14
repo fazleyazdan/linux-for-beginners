@@ -86,3 +86,7 @@ Linux is all about the terminal. Below are some of the most useful and beginner-
 ---
 
 These commands are just the beginning, but they'll help you become comfortable in a Linux environment. As we move forward, you’ll learn more advanced techniques like scripting, permissions, and process control.
+
+
+
+## 🔐 Chapter 2: Understanding Users, File Permissions, and Ownership
