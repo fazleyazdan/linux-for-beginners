@@ -62,4 +62,27 @@ Linux is all about the terminal. Below are some of the most useful and beginner-
 | `head -n 10 [filename]`        | Shows the first 10 lines of a file           |
 | `tail -n 10 [filename]`        | Shows the last 10 lines of a file            |
 
+### ⚙️ System Information & Management
 
+| Command           | Description                              |
+|-------------------|------------------------------------------|
+| `whoami`          | Shows the current user                   |
+| `uname -a`        | Displays system information              |
+| `df -h`           | Shows disk usage in human-readable form  |
+| `free -h`         | Shows memory usage                       |
+| `top`             | Displays real-time system processes      |
+| `ps aux`          | Lists all running processes              |
+| `kill [PID]`      | Kills a process by its PID               |
+
+### 🔍 Searching & Finding
+
+| Command                             | Description                                   |
+|-------------------------------------|-----------------------------------------------|
+| `find [dir] -name [filename]`       | Finds files with a specific name              |
+| `grep [pattern] [filename]`         | Searches for a pattern inside a file          |
+| `history`                           | Shows command history                         |
+| `clear`                             | Clears the terminal screen                    |
+
+---
+
+These commands are just the beginning, but they'll help you become comfortable in a Linux environment. As we move forward, you’ll learn more advanced techniques like scripting, permissions, and process control.
