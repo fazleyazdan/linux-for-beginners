@@ -39,7 +39,7 @@ Linux is all about the terminal. Below are some of the most useful and beginner-
 ### 📂 File & Directory Navigation
 
 | Command                  | Description                                 |
-|:--------------------------|:---------------------------------------------|
+|:-------------------------|:-------------------------------------------|
 | `pwd`                    | Shows the current working directory         |
 | `ls`                     | Lists files and directories                 |
 | `ls -l`                  | Lists in long format (permissions, size)    |
@@ -52,7 +52,7 @@ Linux is all about the terminal. Below are some of the most useful and beginner-
 ### 📄 File Operations
 
 | Command                        | Description                                  |
-|--------------------------------|----------------------------------------------|
+|:-------------------------------|:---------------------------------------------|
 | `touch [filename]`             | Creates a new empty file                     |
 | `cp [source] [destination]`    | Copies a file or directory                   |
 | `mv [source] [destination]`    | Moves or renames a file or directory         |
@@ -65,7 +65,7 @@ Linux is all about the terminal. Below are some of the most useful and beginner-
 ### ⚙️ System Information & Management
 
 | Command           | Description                              |
-|-------------------|------------------------------------------|
+|:------------------|:-----------------------------------------|
 | `whoami`          | Shows the current user                   |
 | `uname -a`        | Displays system information              |
 | `df -h`           | Shows disk usage in human-readable form  |
@@ -77,7 +77,7 @@ Linux is all about the terminal. Below are some of the most useful and beginner-
 ### 🔍 Searching & Finding
 
 | Command                             | Description                                   |
-|-------------------------------------|-----------------------------------------------|
+|:------------------------------------|:----------------------------------------------|
 | `find [dir] -name [filename]`       | Finds files with a specific name              |
 | `grep [pattern] [filename]`         | Searches for a pattern inside a file          |
 | `history`                           | Shows command history                         |
