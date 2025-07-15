@@ -88,7 +88,8 @@ These commands are just the beginning, but they'll help you become comfortable i
 
 ---
 
+<a id="ch2"></a>
 
 ## 🔐 Chapter 2: Understanding Users, File Permissions, and Ownership
 
-<a id="ch2"></a>
+
