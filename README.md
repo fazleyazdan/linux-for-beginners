@@ -107,7 +107,7 @@ These commands are just the beginning, but they'll help you become comfortable i
 
 ## 🔐 Chapter 2: Understanding Users, File Permissions, and Ownership
 
-n Linux, everything is treated as a file — and controlling who can access or modify files is critical. This chapter introduces users, groups, file permissions, and how to manage them.
+in Linux, everything is treated as a file — and controlling who can access or modify files is critical. This chapter introduces users, groups, file permissions, and how to manage them.
 
 ### 👤 Users & Groups
 
