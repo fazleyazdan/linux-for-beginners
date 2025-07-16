@@ -107,7 +107,7 @@ These commands are just the beginning, but they'll help you become comfortable i
 
 ## 🔐 Chapter 2: Understanding Users, File Permissions, and Ownership
 
-n Linux, everything is treated as a file — and controlling who can access or modify files is critical. This chapter introduces users, groups, file permissions, and how to manage them.
+n Linux, everything is treated as a file — and controlling who can access or modify files is critical. This chapter introduces users, groups, file permissions, and how to manage them.<br>
 
 ### 👤 Users & Groups
 
@@ -118,5 +118,13 @@ n Linux, everything is treated as a file — and controlling who can access or m
 | `adduser [name]`   | Adds a new user (requires sudo)                 |
 | `passwd [name]`    | Sets or changes a user’s password               |
 | `groupadd [group]` | Creates a new user group                        |
-| `usermod -aG [group] [user]` | Adds user to a group                 |
+| `usermod -aG [group] [user]` | Adds user to a group                 | 
+<br>
 
+### 📄 File Ownership
+
+| Command                  | Description                                    |
+|--------------------------|------------------------------------------------|
+| `ls -l`                  | Shows ownership and permission details         |
+| `chown [user] [file]`    | Changes file owner                             |
+| `chown user:group [file]`| Changes owner and group of a file              |
