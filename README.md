@@ -6,6 +6,20 @@
 
 ---
 
+## 🚀 Who This Is For
+
+- Beginner testers working in Linux-based CI/CD environments  
+- Developers transitioning to Linux  
+- Anyone who wants to improve their command-line skills
+
+---
+
+## 🛠️ Contributing
+
+Feel free to open an issue or a pull request to improve this guide. You can also suggest tools, corrections, or advanced tips.
+
+---
+
 <a id="intro"></a>
 
 ### What is Linux?
