@@ -107,4 +107,16 @@ These commands are just the beginning, but they'll help you become comfortable i
 
 ## 🔐 Chapter 2: Understanding Users, File Permissions, and Ownership
 
+n Linux, everything is treated as a file — and controlling who can access or modify files is critical. This chapter introduces users, groups, file permissions, and how to manage them.
+
+### 👤 Users & Groups
+
+| Command            | Description                                     |
+|:-------------------|:------------------------------------------------|
+| `whoami`           | Displays the current logged-in user             |
+| `id`               | Shows the current user ID and group info        |
+| `adduser [name]`   | Adds a new user (requires sudo)                 |
+| `passwd [name]`    | Sets or changes a user’s password               |
+| `groupadd [group]` | Creates a new user group                        |
+| `usermod -aG [group] [user]` | Adds user to a group                 |
 
