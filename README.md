@@ -150,3 +150,18 @@ Example breakdown:
 | `chmod 755 [file]`        | Sets specific permissions using numbers         |
 | `chmod u+x [file]`        | Adds execute permission to the file owner       |
 | `chmod g-w [file]`        | Removes write permission from the group         |
+
+#### Numeric Permission Reference
+
+| Number | Permission     |
+|--------|----------------|
+| 7      | read + write + execute (rwx) |
+| 6      | read + write (rw-)           |
+| 5      | read + execute (r-x)         |
+| 4      | read only (r--)              |
+| 0      | no permissions (---)         |
+
+Example:
+```bash
+chmod 644 myfile.txt
+# Owner: read/write, Group: read, Others: read
