@@ -127,3 +127,11 @@ in Linux, everything is treated as a file — and controlling who can access or 
 | `ls -l`                  | Shows ownership and permission details         |
 | `chown [user] [file]`    | Changes file owner                             |
 | `chown user:group [file]`| Changes owner and group of a file              |
+
+### 🔐 File Permissions
+
+Linux uses a 3-part permission system:
+
+- **Owner**: User who created the file.
+- **Group**: Users who are part of the file's group.
+- **Others**: Everyone else.
