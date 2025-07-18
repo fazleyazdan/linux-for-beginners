@@ -135,3 +135,10 @@ Linux uses a 3-part permission system:
 - **Owner**: User who created the file.
 - **Group**: Users who are part of the file's group.
 - **Others**: Everyone else.
+
+Permissions are shown as: `-rwxr-xr--`  
+Example breakdown:
+- `r` = read
+- `w` = write
+- `x` = execute
+
