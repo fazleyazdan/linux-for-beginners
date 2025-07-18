@@ -6,6 +6,8 @@
 
 ---
 
+<a id="intro"></a>
+
 ## 🚀 Who This Is For
 
 - Beginner testers working in Linux-based CI/CD environments  
@@ -13,8 +15,6 @@
 - Anyone who wants to improve their command-line skills
 
 ---
-
-<a id="intro"></a>
 
 ### What is Linux?
 
