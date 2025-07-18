@@ -14,12 +14,6 @@
 
 ---
 
-## 🛠️ Contributing
-
-Feel free to open an issue or a pull request to improve this guide. You can also suggest tools, corrections, or advanced tips.
-
----
-
 <a id="intro"></a>
 
 ### What is Linux?
@@ -165,3 +159,10 @@ Example:
 ```bash
 chmod 644 myfile.txt
 # Owner: read/write, Group: read, Others: read
+```
+
+---
+
+## 🛠️ Contributing
+
+Feel free to open an issue or a pull request to improve this guide. You can also suggest tools, corrections, or advanced tips.
