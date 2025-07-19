@@ -190,6 +190,12 @@ Linux allows you to control running processes, monitor system performance, and s
 #### Crontab Basics
 
 
+| Command             | Description                            |
+|---------------------|----------------------------------------|
+| `crontab -e`        | Edit the current user's crontab file   |
+| `crontab -l`        | List current user's scheduled tasks    |
+| `crontab -r`        | Remove the current crontab             |
+
 ---
 
 ## 🛠️ Contributing
