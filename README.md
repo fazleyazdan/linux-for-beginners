@@ -168,6 +168,20 @@ chmod 644 myfile.txt
 
 Linux allows you to control running processes, monitor system performance, and schedule tasks — all from the command line. In this chapter, you’ll learn how to manage processes and automate recurring tasks using tools like `cron`, `ps`, and `kill`.
 
+### 🧠 Understanding Processes
+
+| Command             | Description                                   |
+|---------------------|-----------------------------------------------|
+| `ps aux`            | Lists all running processes                   |
+| `top`               | Real-time view of active processes            |
+| `htop`              | Interactive version of `top` (requires install) |
+| `kill [PID]`        | Sends a signal to terminate a process         |
+| `kill -9 [PID]`     | Forcefully terminates a process               |
+| `pkill [name]`      | Kills process(es) by name                     |
+| `nice`              | Starts a process with a defined priority      |
+| `renice`            | Changes the priority of a running process     |
+
+
 ---
 
 ## 🛠️ Contributing
