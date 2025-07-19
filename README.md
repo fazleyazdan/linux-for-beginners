@@ -181,6 +181,14 @@ Linux allows you to control running processes, monitor system performance, and s
 | `nice`              | Starts a process with a defined priority      |
 | `renice`            | Changes the priority of a running process     |
 
+> 💡 Use `ps aux | grep <name>` to search for a specific process.
+
+### 🕒 Scheduling Tasks with Cron
+
+`cron` is a built-in scheduler in Linux for automating repetitive tasks like backups, script execution, or system checks.
+
+#### Crontab Basics
+
 
 ---
 
