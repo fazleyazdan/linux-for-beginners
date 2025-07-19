@@ -161,6 +161,12 @@ chmod 644 myfile.txt
 # Owner: read/write, Group: read, Others: read
 ```
 
+<a id="ch2"></a>
+
+## ⚙️ Chapter 3: Process Management and Task Automation
+
+Linux allows you to control running processes, monitor system performance, and schedule tasks — all from the command line. In this chapter, you’ll learn how to manage processes and automate recurring tasks using tools like `cron`, `ps`, and `kill`.
+
 ---
 
 ## 🛠️ Contributing
