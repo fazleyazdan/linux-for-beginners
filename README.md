@@ -162,6 +162,8 @@ chmod 644 myfile.txt
 # Owner: read/write, Group: read, Others: read
 ```
 
+--- 
+
 <a id="ch2"></a>
 
 ## ⚙️ Chapter 3: Process Management and Task Automation
@@ -197,14 +199,15 @@ Linux allows you to control running processes, monitor system performance, and s
 
 #### Cron Format
 
-command_to_run
+```text
+* * * * * command_to_run
 │ │ │ │ │
 │ │ │ │ └── Day of the week (0-7) (Sunday is both 0 and 7)
 │ │ │ └──── Month (1 - 12)
 │ │ └────── Day of the month (1 - 31)
 │ └──────── Hour (0 - 23)
-└────────── Minute (0 - 59)
-
+└────────── Minute (0 - 59) 
+```
 
 
 ---
