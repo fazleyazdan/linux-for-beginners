@@ -233,6 +233,14 @@ Linux allows you to control running processes, monitor system performance, and s
 
 Learning how to monitor and automate tasks helps you manage systems more efficiently and focus on what really matters. In the next chapter, we’ll dive into Package Management in Linux — installing, updating, and removing software using tools like apt, yum, and dnf.
 
+### 🧪 Pro Tips for Testers - chapter 3
+
+- Use `ps aux | grep [tool]` to ensure your test tools (e.g., Selenium server, JMeter) are running.
+- Automate daily regression or smoke tests using `cron` jobs — schedule them during off-hours to save time.
+- Use `kill` or `pkill` to clean up hanging processes from failed test runs.
+- Monitor CPU and memory usage with `top` while running performance tests to detect bottlenecks.
+
+
 ---
 
 
