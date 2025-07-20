@@ -210,7 +210,24 @@ Linux allows you to control running processes, monitor system performance, and s
 ```
 
 
+#### Examples
+
+```bash
+# Run every day at 2 AM
+0 2 * * * /home/user/backup.sh
+
+# Run every 10 minutes
+*/10 * * * * /home/user/script.sh
+
+# Run every Monday at 5 PM
+0 17 * * 1 /home/user/monday_task.sh
+```
+
+Learning how to monitor and automate tasks helps you manage systems more efficiently and focus on what really matters. In the next chapter, we’ll dive into Package Management in Linux — installing, updating, and removing software using tools like apt, yum, and dnf.
+
 ---
+
+
 
 ## 🛠️ Contributing
 
