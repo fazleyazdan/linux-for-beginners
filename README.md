@@ -162,6 +162,14 @@ chmod 644 myfile.txt
 # Owner: read/write, Group: read, Others: read
 ```
 
+### 🧪 Pro Tips for Testers - chapter 2
+
+- Set up restricted test users with limited permissions to validate role-based access in web or system testing.
+- Always verify that log files and test reports have appropriate read/write permissions before and after automated test runs.
+- Use `chmod +x` to ensure test scripts or automation tools are executable.
+- Use `ls -l` to debug permission issues when automated scripts fail silently.
+
+
 --- 
 
 <a id="ch2"></a>
