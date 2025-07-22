@@ -162,7 +162,7 @@ chmod 644 myfile.txt
 # Owner: read/write, Group: read, Others: read
 ```
 
-### 💡 Pro Tips for Testers - chapter 2
+### 💡 Pro Tips for Testers
 
 > - Set up restricted test users with limited permissions to validate role-based access in web or system testing.
 > - Always verify that log files and test reports have appropriate read/write permissions before and after automated test runs.
@@ -233,7 +233,7 @@ Linux allows you to control running processes, monitor system performance, and s
 
 Learning how to monitor and automate tasks helps you manage systems more efficiently and focus on what really matters. In the next chapter, we’ll dive into Package Management in Linux — installing, updating, and removing software using tools like apt, yum, and dnf.
 
-### 💡 Pro Tips for Testers - chapter 3
+### 💡 Pro Tips for Testers
 
 > - Use `ps aux | grep [tool]` to ensure your test tools (e.g., Selenium server, JMeter) are running.
 > - Automate daily regression or smoke tests using `cron` jobs — schedule them during off-hours to save time.
@@ -242,6 +242,10 @@ Learning how to monitor and automate tasks helps you manage systems more efficie
 
 ---
 
+## 📦 Chapter 4: Installing and Managing Software with Package Managers
+
+
+---
 
 ## 🛠️ Contributing
 
