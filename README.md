@@ -244,6 +244,18 @@ Learning how to monitor and automate tasks helps you manage systems more efficie
 
 ## 📦 Chapter 4: Installing and Managing Software with Package Managers
 
+One of the most powerful features of Linux is its package management system — a way to easily install, update, and remove software. Different Linux distributions use different package managers, but the concept is the same.
+
+### 🏁 Common Package Managers by Distro
+
+| Package Manager | Used By                        |
+|------------------|-------------------------------|
+| `apt`            | Debian, Ubuntu                |
+| `yum` / `dnf`    | CentOS, RHEL, Fedora          |
+| `pacman`         | Arch Linux                    |
+| `zypper`         | openSUSE                      |
+
+
 
 ---
 
