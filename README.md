@@ -4,6 +4,7 @@
 - [📘 Chapter 1: Essential Linux Commands for Beginners](#ch1)
 - [🔐 Chapter 2: Understanding Users, File Permissions, and Ownership](#ch2)
 - [⚙️ Chapter 3: Process Management and Task Automation](#ch3)
+- [📦 Chapter 4: Installing and Managing Software with Package Managers](#ch4)
 
 ---
 
@@ -241,6 +242,8 @@ Learning how to monitor and automate tasks helps you manage systems more efficie
 > - Monitor CPU and memory usage with `top` while running performance tests to detect bottlenecks.
 
 ---
+
+<a id="ch4"></a>
 
 ## 📦 Chapter 4: Installing and Managing Software with Package Managers
 
