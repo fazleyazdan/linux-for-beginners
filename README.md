@@ -256,6 +256,19 @@ One of the most powerful features of Linux is its package management system — 
 | `zypper`         | openSUSE                      |
 
 
+### 📥 Using `apt` (Debian/Ubuntu)
+
+| Command                              | Description                              |
+|--------------------------------------|------------------------------------------|
+| `sudo apt update`                    | Refreshes package list                   |
+| `sudo apt upgrade`                   | Updates all installed packages           |
+| `sudo apt install [package]`         | Installs a package                       |
+| `sudo apt remove [package]`          | Removes a package                        |
+| `sudo apt purge [package]`           | Removes package + config files           |
+| `sudo apt autoremove`                | Removes unused dependencies              |
+| `apt list --installed`               | Lists all installed packages             |
+| `apt search [package]`               | Searches available packages              |
+
 
 ---
 
