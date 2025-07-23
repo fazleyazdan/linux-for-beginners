@@ -301,6 +301,15 @@ sudo apt --fix-broken install
 sudo rpm -ivh filename.rpm 
 ```
 
+##
+
+### 💡Pro Tips for Testers
+> - Use apt list --upgradable to know which tools or libraries might affect your test environments.
+> - Tools like curl, wget, git, docker, and testing frameworks can all be installed via package managers.
+> - Keep test environments lean by removing unused packages: sudo apt autoremove.
+
+
+
 
 ---
 
