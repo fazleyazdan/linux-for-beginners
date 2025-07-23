@@ -286,6 +286,22 @@ One of the most powerful features of Linux is its package management system — 
 
 > `yum` is older; `dnf` is its modern replacement.
 
+##
+
+### 📦 Installing `.deb` or `.rpm` Files Manually
+
+```bash
+# Install a .deb file (Ubuntu/Debian)
+sudo dpkg -i filename.deb
+
+# Fix missing dependencies
+sudo apt --fix-broken install
+
+# Install an .rpm file (Fedora/CentOS)
+sudo rpm -ivh filename.rpm 
+```
+
+
 ---
 
 ## 🛠️ Contributing
