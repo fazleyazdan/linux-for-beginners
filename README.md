@@ -272,6 +272,19 @@ One of the most powerful features of Linux is its package management system — 
 | `apt list --installed`               | Lists all installed packages             |
 | `apt search [package]`               | Searches available packages              |
 
+##
+
+### 🔄 Using `yum` / `dnf` (RHEL/CentOS/Fedora)
+
+| Command                              | Description                              |
+|--------------------------------------|------------------------------------------|
+| `sudo dnf update`                    | Updates all packages                     |
+| `sudo dnf install [package]`         | Installs a package                       |
+| `sudo dnf remove [package]`          | Removes a package                        |
+| `dnf list installed`                 | Lists installed packages                 |
+| `dnf search [package]`               | Searches for packages                    |
+
+> `yum` is older; `dnf` is its modern replacement.
 
 ---
 
