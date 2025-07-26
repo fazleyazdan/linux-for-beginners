@@ -316,6 +316,20 @@ sudo rpm -ivh filename.rpm
 
 Networking is an essential part of working with Linux, whether you're testing APIs, debugging servers, or checking internet connectivity. This chapter covers the most useful networking commands and tools every beginner should know.
 
+### 🌍 Viewing Network Configuration
+
+| Command              | Description                                       |
+|----------------------|---------------------------------------------------|
+| `ip a`               | Shows all IP addresses and interfaces             |
+| `ifconfig`           | Shows network interfaces (older, may require install) |
+| `hostname -I`        | Displays the IP address of the machine            |
+| `ping [host]`        | Checks connectivity with another host             |
+| `traceroute [host]`  | Shows the route packets take to a host            |
+| `nslookup [domain]`  | Finds the IP address of a domain                  |
+| `dig [domain]`       | Performs DNS lookup (requires installation)       |
+
+##
+
 
 
 ---
