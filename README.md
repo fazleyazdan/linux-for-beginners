@@ -5,6 +5,7 @@
 - [🔐 Chapter 2: Understanding Users, File Permissions, and Ownership](#ch2)
 - [⚙️ Chapter 3: Process Management and Task Automation](#ch3)
 - [📦 Chapter 4: Installing and Managing Software with Package Managers](#ch4)
+- [🌐 Chapter 5: Networking Basics in Linux](#ch5)
 
 ---
 
