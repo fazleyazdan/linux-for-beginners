@@ -312,6 +312,10 @@ sudo rpm -ivh filename.rpm
 
 <a id="ch5"></a>
 
+## 🌐 Chapter 5: Networking Basics in Linux
+
+Networking is an essential part of working with Linux, whether you're testing APIs, debugging servers, or checking internet connectivity. This chapter covers the most useful networking commands and tools every beginner should know.
+
 
 
 ---
