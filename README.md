@@ -344,6 +344,18 @@ Networking is an essential part of working with Linux, whether you're testing AP
 
 ##
 
+### 🔄 Checking Active Connections & Services
+
+| Command            | Description                                  |
+|--------------------|----------------------------------------------|
+| `netstat -anp`     | Shows all active connections and PIDs        |
+| `lsof -i`          | Lists open files related to internet connections |
+| `systemctl status network` | Shows network service status        |
+
+> 💡 Note: `netstat`, `ifconfig`, and `lsof` may not be pre-installed on all systems. Use `sudo apt install net-tools` or `sudo yum install net-tools` as needed.
+
+
+
 ---
 
 ## 🛠️ Contributing
