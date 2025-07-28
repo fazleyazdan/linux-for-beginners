@@ -63,6 +63,8 @@ Linux is all about the terminal. Below are some of the most useful and beginner-
 | `rmdir [foldername]`     | Removes an empty directory                  |
 | `rm -r [foldername]`     | Removes a directory and its contents        |
 
+##
+
 ### 📄 File Operations
 
 | Command                        | Description                                  |
@@ -76,6 +78,8 @@ Linux is all about the terminal. Below are some of the most useful and beginner-
 | `head -n 10 [filename]`        | Shows the first 10 lines of a file           |
 | `tail -n 10 [filename]`        | Shows the last 10 lines of a file            |
 
+##
+
 ### ⚙️ System Information & Management
 
 | Command           | Description                              |
@@ -87,6 +91,8 @@ Linux is all about the terminal. Below are some of the most useful and beginner-
 | `top`             | Displays real-time system processes      |
 | `ps aux`          | Lists all running processes              |
 | `kill [PID]`      | Kills a process by its PID               |
+
+##
 
 ### 🔍 Searching & Finding
 
