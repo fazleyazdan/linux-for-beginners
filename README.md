@@ -151,6 +151,8 @@ Example breakdown:
 - `w` = write
 - `x` = execute
 
+##
+
 ### 🔧 Modifying Permissions
 
 | Command                   | Description                                     |
@@ -159,6 +161,8 @@ Example breakdown:
 | `chmod 755 [file]`        | Sets specific permissions using numbers         |
 | `chmod u+x [file]`        | Adds execute permission to the file owner       |
 | `chmod g-w [file]`        | Removes write permission from the group         |
+
+##
 
 #### Numeric Permission Reference
 
@@ -175,6 +179,8 @@ Example:
 chmod 644 myfile.txt
 # Owner: read/write, Group: read, Others: read
 ```
+
+##
 
 ### 💡 Pro Tips for Testers
 
