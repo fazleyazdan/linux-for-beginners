@@ -125,6 +125,8 @@ in Linux, everything is treated as a file — and controlling who can access or 
 | `groupadd [group]` | Creates a new user group                        |
 | `usermod -aG [group] [user]` | Adds user to a group                 | 
 
+##
+
 ### 📄 File Ownership
 
 | Command                  | Description                                    |
@@ -132,6 +134,8 @@ in Linux, everything is treated as a file — and controlling who can access or 
 | `ls -l`                  | Shows ownership and permission details         |
 | `chown [user] [file]`    | Changes file owner                             |
 | `chown user:group [file]`| Changes owner and group of a file              |
+
+##
 
 ### 🔐 File Permissions
 
