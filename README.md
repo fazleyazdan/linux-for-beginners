@@ -162,7 +162,6 @@ Example breakdown:
 | `chmod u+x [file]`        | Adds execute permission to the file owner       |
 | `chmod g-w [file]`        | Removes write permission from the group         |
 
-##
 
 #### Numeric Permission Reference
 
@@ -213,6 +212,8 @@ Linux allows you to control running processes, monitor system performance, and s
 
 > 💡 Use `ps aux | grep <name>` to search for a specific process.
 
+##
+
 ### 🕒 Scheduling Tasks with Cron
 
 `cron` is a built-in scheduler in Linux for automating repetitive tasks like backups, script execution, or system checks.
@@ -252,6 +253,8 @@ Linux allows you to control running processes, monitor system performance, and s
 ```
 
 Learning how to monitor and automate tasks helps you manage systems more efficiently and focus on what really matters. In the next chapter, we’ll dive into Package Management in Linux — installing, updating, and removing software using tools like apt, yum, and dnf.
+
+##
 
 ### 💡 Pro Tips for Testers
 
