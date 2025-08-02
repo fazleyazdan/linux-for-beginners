@@ -388,6 +388,34 @@ Networking is an essential part of working with Linux, whether you're testing AP
 
 ## 💻 Chapter 6: Shell Scripting Basics
 
+Shell scripts allow you to automate repetitive tasks, set up test environments, run test suites, and monitor system behavior. This chapter introduces basic scripting in `bash`, the most commonly used shell.
+
+### 📝 Creating a Simple Script
+
+```bash
+#!/bin/bash
+echo "Hello, World!"
+```
+
+* Save the file as hello.sh
+* Make it executable: chmod +x hello.sh
+* Run it: ./hello.sh
+
+##  Useful Scripting Concepts
+
+```text
+| Concept                | Example                                   |
+| ---------------------- | ----------------------------------------- |
+| Variables              | `name="Uzair"`                            |
+| Using variables        | `echo "Hello, $name"`                     |
+| Conditional statements | `if [ $var -eq 1 ]; then ... fi`          |
+| Loops                  | `for i in 1 2 3; do echo $i; done`        |
+| Reading user input     | `read -p "Enter name: " username`         |
+| Running commands       | `$(command)` or backticks `` `command` `` |
+```
+
+
+
 
 ---
 
