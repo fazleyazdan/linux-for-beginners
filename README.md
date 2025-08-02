@@ -414,6 +414,15 @@ echo "Hello, World!"
 | Running commands       | `$(command)` or backticks `` `command` `` |
 ```
 
+##  Sample: Automation Script
+
+```bash
+#!/bin/bash
+echo "Running test suite..."
+pytest tests/ > test-report.txt
+echo "Tests finished. Report saved to test-report.txt"
+```
+
 
 
 
