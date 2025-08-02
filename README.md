@@ -386,6 +386,11 @@ Networking is an essential part of working with Linux, whether you're testing AP
 
 ---
 
+## 💻 Chapter 6: Shell Scripting Basics
+
+
+---
+
 
 ## 🛠️ Contributing
 
