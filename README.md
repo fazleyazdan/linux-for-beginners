@@ -423,7 +423,11 @@ pytest tests/ > test-report.txt
 echo "Tests finished. Report saved to test-report.txt"
 ```
 
-
+## Pro Tips for Testers
+> - Automate full test pipelines: install dependencies, run tests, clean artifacts.
+> - Integrate shell scripts with cron jobs to schedule regression or smoke tests.
+> - Create environment setup scripts to standardize local/CI test setups.
+> - Add logs and exit codes in scripts to make CI/CD troubleshooting easier:
 
 
 ---
