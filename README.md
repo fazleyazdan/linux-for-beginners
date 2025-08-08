@@ -433,7 +433,6 @@ echo "Tests finished. Report saved to test-report.txt"
 
 ---
 
-
 ## 🛠️ Contributing
 
 Feel free to open an issue or a pull request to improve this guide. You can also suggest tools, corrections, or advanced tips.
