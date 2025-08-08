@@ -390,7 +390,7 @@ Networking is an essential part of working with Linux, whether you're testing AP
 
 Shell scripts allow you to automate repetitive tasks, set up test environments, run test suites, and monitor system behavior. This chapter introduces basic scripting in `bash`, the most commonly used shell.
 
-### 📝 Creating a Simple Script
+### 📝 Creating a Simple Script 
 
 ```bash
 #!/bin/bash
