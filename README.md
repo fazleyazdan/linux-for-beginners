@@ -350,7 +350,7 @@ Networking is an essential part of working with Linux, whether you're testing AP
 | `nslookup [domain]`  | Finds the IP address of a domain                  |
 | `dig [domain]`       | Performs DNS lookup (requires installation)       |
 
-##
+## 
 
 ### 📡 Testing Network Connections
 
