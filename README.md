@@ -363,7 +363,7 @@ Networking is an essential part of working with Linux, whether you're testing AP
 | `netstat -tulpn`             | Lists open ports and listening services         |
 | `ss -tuln`                   | Faster alternative to `netstat`                 |
 
-##
+## 
 
 ### 🔄 Checking Active Connections & Services
 
