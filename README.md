@@ -429,6 +429,10 @@ echo "Tests finished. Report saved to test-report.txt"
 > - Create environment setup scripts to standardize local/CI test setups.
 > - Add logs and exit codes in scripts to make CI/CD troubleshooting easier:
 
+---
+
+## 🪵 Chapter 7: Log Management and Troubleshooting in Linux
+
 
 
 ---
