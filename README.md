@@ -433,6 +433,8 @@ echo "Tests finished. Report saved to test-report.txt"
 
 ## 🪵 Chapter 7: Log Management and Troubleshooting in Linux
 
+Logs are a goldmine for debugging and monitoring test environments and systems. Whether you're tracking test failures, server crashes, or performance bottlenecks, knowing how to read and manage logs is critical.
+
 
 
 ---
