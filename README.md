@@ -435,6 +435,20 @@ echo "Tests finished. Report saved to test-report.txt"
 
 Logs are a goldmine for debugging and monitoring test environments and systems. Whether you're tracking test failures, server crashes, or performance bottlenecks, knowing how to read and manage logs is critical.
 
+### 📁 Common Log Files
+
+Most Linux log files are stored in the `/var/log/` directory.
+
+| Log File                      | Description                                     |
+|-------------------------------|-------------------------------------------------|
+| `/var/log/syslog`             | System-wide logs (Debian-based systems)         |
+| `/var/log/messages`           | General messages (RedHat/CentOS systems)        |
+| `/var/log/auth.log`           | Authentication logs (logins, sudo, etc.)        |
+| `/var/log/dmesg`              | Kernel ring buffer (boot & hardware info)       |
+| `/var/log/apache2/error.log`  | Apache server error log                         |
+| `/var/log/nginx/error.log`    | Nginx server error log                          |
+| `/var/log/kern.log`           | Kernel logs                                     |
+
 
 
 ---
