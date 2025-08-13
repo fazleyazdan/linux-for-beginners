@@ -151,7 +151,7 @@ Example breakdown:
 - `w` = write
 - `x` = execute
 
-##
+## 
 
 ### 🔧 Modifying Permissions
 
