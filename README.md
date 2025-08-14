@@ -462,7 +462,7 @@ Most Linux log files are stored in the `/var/log/` directory.
 | `grep "error" [logfile]`                | Search log for keywords                        |
 | `journalctl`                            | View logs from systemd (modern systems)        |
 | `dmesg | less`                          | View boot and kernel logs                      |
-
+ 
 
 ---
 
