@@ -450,7 +450,7 @@ Most Linux log files are stored in the `/var/log/` directory.
 | `/var/log/kern.log`           | Kernel logs                                     |
 
 
-### 🔍 
+### 🔍 Viewing and Searching Logs
 
 | Command                                 | Description                                    |
 |-----------------------------------------|------------------------------------------------|
