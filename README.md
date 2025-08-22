@@ -350,18 +350,6 @@ Networking is an essential part of working with Linux, whether you're testing AP
 | `nslookup [domain]`  | Finds the IP address of a domain                  |
 | `dig [domain]`       | Performs DNS lookup (requires installation)       |
 
-## 
-
-### 📡 Testing Network Connections
-
-| Command                       | Description                                     |
-|-------------------------------|-------------------------------------------------|
-| `curl [url]`                 | Fetches data from a URL                         |
-| `wget [url]`                 | Downloads files from a URL                      |
-| `telnet [host] [port]`       | Tests if a specific port is open                |
-| `netcat -zv [host] [port]`   | Checks port connectivity (`nc` command)         |
-| `netstat -tulpn`             | Lists open ports and listening services         |
-| `ss -tuln`                   | Faster alternative to `netstat`                 |
 
 ## 
 
