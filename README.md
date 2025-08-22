@@ -406,7 +406,7 @@ echo "Hello, World!"
 ```text
 | Concept                | Example                                   |
 | ---------------------- | ----------------------------------------- |
-| Variables              | `name="Uzair"`                            |
+| Variables              | `name="Fazle"`                            |
 | Using variables        | `echo "Hello, $name"`                     |
 | Conditional statements | `if [ $var -eq 1 ]; then ... fi`          |
 | Loops                  | `for i in 1 2 3; do echo $i; done`        |
