@@ -7,6 +7,7 @@
 - [📦 Chapter 4: Installing and Managing Software with Package Managers](#ch4)
 - [🌐 Chapter 5: Networking Basics in Linux](#ch5)
 - [💻 Chapter 6: Shell Scripting Basics](#ch6)
+- [🪵 Chapter 7: Log Management and Troubleshooting in Linux](#ch7)
 
  
 ---
@@ -465,6 +466,13 @@ Most Linux log files are stored in the `/var/log/` directory.
  
 
 ---
+
+## 🪵 Chapter 7: Log Management and Troubleshooting in Linux
+
+Logs are a goldmine for debugging and monitoring test environments and systems. Whether you're tracking test failures, server crashes, or performance bottlenecks, knowing how to read and manage logs is critical.
+
+---
+
 
 ## 🛠️ Contributing
 
