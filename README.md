@@ -431,6 +431,8 @@ echo "Tests finished. Report saved to test-report.txt"
 > - Add logs and exit codes in scripts to make CI/CD troubleshooting easier:
 
 ---
+<a id="ch7"></a>
+
 
 ## 🪵 Chapter 7: Log Management and Troubleshooting in Linux
 
