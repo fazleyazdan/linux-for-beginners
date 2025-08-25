@@ -453,26 +453,6 @@ Most Linux log files are stored in the `/var/log/` directory.
 | `/var/log/kern.log`           | Kernel logs                                     |
 
 
-### 🔍 Viewing and Searching Logs
-
-| Command                                 | Description                                    |
-|-----------------------------------------|------------------------------------------------|
-| `cat [logfile]`                         | Outputs entire log file                        |
-| `less [logfile]`                        | View log with scroll/navigation                |
-| `tail [logfile]`                        | Shows the last 10 lines of a file              |
-| `tail -f [logfile]`                     | Live view of log updates (great for watching)  |
-| `head [logfile]`                        | Shows the first 10 lines                       |
-| `grep "error" [logfile]`                | Search log for keywords                        |
-| `journalctl`                            | View logs from systemd (modern systems)        |
-| `dmesg less`                          | View boot and kernel logs                      |
- 
-### 🧪 Pro Tips for Testers
-
-> - Use `tail -f` during test runs to monitor logs live and catch real-time errors.
-> - Combine `grep` with `tail` to find specific issues quickly:
-  ```bash
-  tail -f /var/log/syslog | grep "python" 
-  ```
 
 ---
 
