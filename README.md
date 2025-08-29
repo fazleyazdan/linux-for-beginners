@@ -483,6 +483,19 @@ Most Linux log files are stored in the `/var/log/` directory.
 
 ## 📦 Chapter 8: File Compression, Archiving, and Backup in Linux
 
+Linux provides several built-in tools to compress, archive, and back up files and directories. This is especially helpful when you're dealing with large amounts of test data, saving logs, or preparing backups before deployment.
+
+### 🗜️ Common Archiving and Compression Tools
+
+| Tool        | Usage                     | Description                            |
+|-------------|----------------------------|----------------------------------------|
+| `tar`       | Archiving only             | Combines multiple files into one       |
+| `gzip`      | Compression (single files) | Compresses `.tar` or other files       |
+| `zip`       | Archive + compression      | Compresses and archives                |
+| `rsync`     | Backup & sync              | Fast, reliable backup utility          |
+
+
+
 ---
 
 ## 🛠️ Contributing
