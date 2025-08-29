@@ -8,6 +8,8 @@
 - [🌐 Chapter 5: Networking Basics in Linux](#ch5)
 - [💻 Chapter 6: Shell Scripting Basics](#ch6)
 - [🪵 Chapter 7: Log Management and Troubleshooting in Linux](#ch7)
+- [📦 Chapter 8: File Compression, Archiving, and Backup in Linux](#ch8)
+
 
  
 ---
@@ -473,6 +475,13 @@ Most Linux log files are stored in the `/var/log/` directory.
   ```bash
   tail -f /var/log/syslog | grep "python" 
   ```
+
+---
+
+<a id="ch8"></a>
+
+
+## 📦 Chapter 8: File Compression, Archiving, and Backup in Linux
 
 ---
 
