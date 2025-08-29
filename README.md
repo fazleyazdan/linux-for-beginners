@@ -494,6 +494,22 @@ Linux provides several built-in tools to compress, archive, and back up files an
 | `zip`       | Archive + compression      | Compresses and archives                |
 | `rsync`     | Backup & sync              | Fast, reliable backup utility          |
 
+### 📁 Creating Archives with `tar`
+
+```bash
+# Create a .tar archive
+tar -cvf archive.tar folder/
+
+# Extract a .tar archive
+tar -xvf archive.tar
+
+# Create a compressed .tar.gz archive
+tar -czvf archive.tar.gz folder/
+
+# Extract a .tar.gz archive
+tar -xzvf archive.tar.gz
+```
+
 
 
 ---
