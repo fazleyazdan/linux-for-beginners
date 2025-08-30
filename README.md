@@ -520,6 +520,15 @@ zip -r archive.zip folder/
 unzip archive.zip
 ```
 
+### 🔄 Using rsync for Backup
+
+```bash
+# Backup folder to another directory
+rsync -av folder/ /backup/location/
+
+# Backup over SSH (remote)
+rsync -avz folder/ user@host:/remote/backup/
+```
 
 ---
 
