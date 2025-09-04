@@ -537,6 +537,7 @@ rsync -avz folder/ user@host:/remote/backup/
 > - Use compression (.gz, .zip) to reduce storage size of test data or screenshots collected from automation runs.
 > - Store compressed logs in S3, FTP, or remote servers using scp, rsync, or curl.
 
+
 ---
 
 ## 🛠️ Contributing
