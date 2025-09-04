@@ -510,23 +510,6 @@ tar -czvf archive.tar.gz folder/
 tar -xzvf archive.tar.gz
 ```
 
-### 📦 Using zip and unzip
-
-```bash
-# Compress a folder or file
-zip -r archive.zip folder/
-
-# Extract a zip file
-unzip archive.zip
-```
-
-### 🔄 Using rsync for Backup
-
-```bash
-# Backup folder to another directory
-rsync -av folder/ /backup/location/
-
-# Backup over SSH (remote)
 rsync -avz folder/ user@host:/remote/backup/
 ```
 
