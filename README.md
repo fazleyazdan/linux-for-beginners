@@ -9,6 +9,8 @@
 - [💻 Chapter 6: Shell Scripting Basics](#ch6)
 - [🪵 Chapter 7: Log Management and Troubleshooting in Linux](#ch7)
 - [📦 Chapter 8: File Compression, Archiving, and Backup in Linux](#ch8)
+- [✂️ Chapter 9: Text Processing with grep, sed, awk, and cut](#ch9)
+
 
 
  
