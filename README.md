@@ -543,9 +543,7 @@ rsync -avz folder/ user@host:/remote/backup/
 
 <a id="ch9"></a>
 
-## ✂️ Chapter 9: Text Processing with grep, sed, awk, and cut
 
-Linux provides powerful text-processing tools that help you filter, extract, and modify text directly from the terminal. These are especially useful when dealing with logs, config files, and output from test tools.
 
 ### 🔍 grep — Search Inside Files
 
