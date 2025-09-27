@@ -547,6 +547,14 @@ rsync -avz folder/ user@host:/remote/backup/
 
 Linux provides powerful text-processing tools that help you filter, extract, and modify text directly from the terminal. These are especially useful when dealing with logs, config files, and output from test tools.
 
+### 🔍 grep — Search Inside Files
+
+```bash
+grep "ERROR" logfile.txt        # Find lines with "ERROR"
+grep -i "error" logfile.txt     # Case-insensitive search
+grep -r "TODO" ./src            # Recursively search in a directory
+grep -n "test" file.txt         # Show line numbers
+```
 
 
 ---
