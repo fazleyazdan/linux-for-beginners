@@ -532,29 +532,6 @@ rsync -av folder/ /backup/location/
 rsync -avz folder/ user@host:/remote/backup/
 ```
 
-### 🧪 Pro Tips for Testers
-
-> - Archive test logs or test result folders using tar or zip before sending them to developers or storing in CI systems.
-> - Automate daily backups of test artifacts using rsync combined with cron jobs.
-> - Use compression (.gz, .zip) to reduce storage size of test data or screenshots collected from automation runs.
-> - Store compressed logs in S3, FTP, or remote servers using scp, rsync, or curl.
-
----
-
-<a id="ch9"></a>
-
-## ✂️ Chapter 9: Text Processing with grep, sed, awk, and cut
-
-Linux provides powerful text-processing tools that help you filter, extract, and modify text directly from the terminal. These are especially useful when dealing with logs, config files, and output from test tools.
-
-### 🔍 grep — Search Inside Files
-
-```bash
-grep "ERROR" logfile.txt        # Find lines with "ERROR"
-grep -i "error" logfile.txt     # Case-insensitive search
-grep -r "TODO" ./src            # Recursively search in a directory
-grep -n "test" file.txt         # Show line numbers
-```
 
 
 ---
