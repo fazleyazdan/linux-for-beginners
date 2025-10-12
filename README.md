@@ -573,7 +573,11 @@ sed -n '5,10p' file.txt         # Show lines 5 to 10
 
 ### awk — Pattern-Based Processing
 
-
+```bash
+awk '{ print $1 }' file.txt     # Print first word (column) of each line
+awk -F: '{ print $1, $3 }' /etc/passwd  # Print username and UID
+awk '/error/ { print $0 }' log.txt      # Print lines with 'error'
+```
 
 ---
 ## 🛠️ Contributing
