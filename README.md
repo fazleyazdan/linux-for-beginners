@@ -556,6 +556,12 @@ grep -r "TODO" ./src            # Recursively search in a directory
 grep -n "test" file.txt         # Show line numbers
 ```
 
+### cut — Extract Specific Columns
+
+```bash
+cut -d ":" -f1 /etc/passwd      # Show usernames (1st column)
+cut -c 1-5 file.txt             # Show first 5 characters of each line
+```
 
 ---
 ## 🛠️ Contributing
