@@ -571,6 +571,10 @@ sed 's/old/new/g' file.txt      # Replace all occurrences
 sed -n '5,10p' file.txt         # Show lines 5 to 10
 ```
 
+### awk — Pattern-Based Processing
+
+
+
 ---
 ## 🛠️ Contributing
 
