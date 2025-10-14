@@ -532,7 +532,7 @@ rsync -av folder/ /backup/location/
 rsync -avz folder/ user@host:/remote/backup/
 ```
 
-### 🧪 Pro Tips for Testers
+### Pro Tips for Testers
 
 > - Archive test logs or test result folders using tar or zip before sending them to developers or storing in CI systems.
 > - Automate daily backups of test artifacts using rsync combined with cron jobs.
@@ -578,6 +578,9 @@ awk '{ print $1 }' file.txt     # Print first word (column) of each line
 awk -F: '{ print $1, $3 }' /etc/passwd  # Print username and UID
 awk '/error/ { print $0 }' log.txt      # Print lines with 'error'
 ```
+
+### Pro Tips for Testers
+
 
 ---
 ## 🛠️ Contributing
