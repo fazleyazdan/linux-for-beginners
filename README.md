@@ -587,7 +587,10 @@ grep "FAIL" pytest_output.log
 ```
 > - Combine cut and awk to extract test case names or failure IDs from CSVs or reports.
 > - Automate log scanning in CI pipelines to fail builds based on specific error patterns.
-> - 
+> - Use sed to dynamically modify config files or environment variables during test setup.
+> - Combine with pipes (|) for powerful one-liners:
+> - ```cat log.txt | grep "404" | awk '{print $7}' | sort | uniq -c```
+
 
 ---
 ## 🛠️ Contributing
