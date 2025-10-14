@@ -581,6 +581,13 @@ awk '/error/ { print $0 }' log.txt      # Print lines with 'error'
 
 ### Pro Tips for Testers
 
+> - Use grep to extract specific error lines or test results from log files.
+```bash
+grep "FAIL" pytest_output.log
+```
+> - Combine cut and awk to extract test case names or failure IDs from CSVs or reports.
+> - Automate log scanning in CI pipelines to fail builds based on specific error patterns.
+> - 
 
 ---
 ## 🛠️ Contributing
