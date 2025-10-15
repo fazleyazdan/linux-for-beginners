@@ -579,6 +579,9 @@ awk -F: '{ print $1, $3 }' /etc/passwd  # Print username and UID
 awk '/error/ { print $0 }' log.txt      # Print lines with 'error'
 ```
 
+### Pro Tips for Testers
+
+
 ---
 ## 🛠️ Contributing
 
