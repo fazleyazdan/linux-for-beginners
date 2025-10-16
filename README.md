@@ -563,6 +563,13 @@ cut -d ":" -f1 /etc/passwd      # Show usernames (1st column)
 cut -c 1-5 file.txt             # Show first 5 characters of each line
 ```
 
+### sed — Stream Editing
+
+```bash
+sed 's/old/new/' file.txt       # Replace first occurrence of "old" with "new"
+sed 's/old/new/g' file.txt      # Replace all occurrences
+sed -n '5,10p' file.txt         # Show lines 5 to 10
+```
 
 ### Pro Tips for Testers
 
