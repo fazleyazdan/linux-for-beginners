@@ -223,6 +223,14 @@ Linux allows you to control running processes, monitor system performance, and s
 
 `cron` is a built-in scheduler in Linux for automating repetitive tasks like backups, script execution, or system checks.
 
+#### Crontab Basics
+
+| Command             | Description                            |
+|---------------------|----------------------------------------|
+| `crontab -e`        | Edit the current user's crontab file   |
+| `crontab -l`        | List current user's scheduled tasks    |
+| `crontab -r`        | Remove the current crontab             |
+
 
 
 #### Examples
