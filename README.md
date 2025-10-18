@@ -231,6 +231,17 @@ Linux allows you to control running processes, monitor system performance, and s
 | `crontab -l`        | List current user's scheduled tasks    |
 | `crontab -r`        | Remove the current crontab             |
 
+#### Cron Format
+
+```text
+* * * * * command_to_run
+│ │ │ │ │
+│ │ │ │ └── Day of the week (0-7) (Sunday is both 0 and 7)
+│ │ │ └──── Month (1 - 12)
+│ │ └────── Day of the month (1 - 31)
+│ └──────── Hour (0 - 23)
+└────────── Minute (0 - 59) 
+```
 
 
 #### Examples
