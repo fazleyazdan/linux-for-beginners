@@ -1,5 +1,5 @@
 # Linux for Beginners
-
+ 
 - [Introduction](#intro)
 - [📘 Chapter 1: Essential Linux Commands for Beginners](#ch1)
 - [🔐 Chapter 2: Understanding Users, File Permissions, and Ownership](#ch2)
