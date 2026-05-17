@@ -24,7 +24,7 @@
 - Developers transitioning to Linux  
 - Anyone who wants to improve their command-line skills
 
----
+--- 
 
 ### What is Linux?
 
