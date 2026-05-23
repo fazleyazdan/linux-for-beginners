@@ -1,7 +1,7 @@
 # Linux for Beginners
 
 - [Introduction](#intro)
-- [📘 Chapter 1: Essential Linux Commands for Beginners](#ch1)
+- [📘 Chapter 1: Essential Linux Commands for Beginners](#ch1) 
 - [🔐 Chapter 2: Understanding Users, File Permissions, and Ownership](#ch2)
 - [⚙️ Chapter 3: Process Management and Task Automation](#ch3)
 - [📦 Chapter 4: Installing and Managing Software with Package Managers](#ch4)
