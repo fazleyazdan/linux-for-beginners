@@ -22,7 +22,7 @@
 
 - Beginner testers working in Linux-based CI/CD environments  
 - Developers transitioning to Linux  
-- Anyone who wants to improve their command-line skills
+- Anyone who wants to improve their command-line skills 
 
 --- 
 
