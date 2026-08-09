@@ -1,4 +1,4 @@
-# Linux for Beginners
+# Linux for Beginners 
 
 - [Introduction](#intro)
 - [📘 Chapter 1: Essential Linux Commands for Beginners](#ch1) 
